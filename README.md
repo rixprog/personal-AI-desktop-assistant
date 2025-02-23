@@ -1,7 +1,3 @@
-Here's a structured README for the **Personal AI Desktop Assistant** repository:  
-
----
-
 # **Personal AI Desktop Assistant**  
 
 An AI-powered desktop assistant using OpenAI's GPT model, designed to assist users with various tasks via a command-line interface (CLI) or graphical user interface (GUI).  
